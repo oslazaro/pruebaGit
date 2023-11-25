@@ -9,11 +9,10 @@ Editorial: SMR
 # Introducción
 
 Esto es un curso donde vamos hablar 
-commits
-ramas
-
-repositorios remotos
-github y gitlab
+1. Commits
+2. Ramas
+3. Repositorios remotos
+4. Github y gitlab
 
 
 # Capitulo 1
