@@ -11,5 +11,13 @@ Editorial: SMR
 Esto es un curso donde vamos hablar 
 commits
 ramas
+
 repositorios remotos
 github y gitlab
+
+
+# Capitulo 1
+
+Los commits nos hablan de cosasdfkjaslkfjalskdfjlasdjflkajsdflkñajsdflkjasdflkjasddf
+aklsjfklajsdflk
+
