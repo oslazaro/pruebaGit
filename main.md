@@ -11,3 +11,5 @@ Editorial: SMR
 Esto es un curso donde vamos hablar 
 commits
 ramas
+repositorios remotos
+github y gitlab
