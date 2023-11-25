@@ -11,3 +11,9 @@ Editorial: SMR
 Esto es un curso donde vamos hablar 
 commits
 ramas
+
+
+# Capitulo 1
+
+Los commits nos hablan de cosasdfkjaslkfjalskdfjlasdjflkajsdflkñajsdflkjasdflkjasddf
+aklsjfklajsdflk
