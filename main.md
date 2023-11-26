@@ -5,7 +5,7 @@ Autor: alumnos del curso de Git
 Fecha: 25/11/23
 
 Editorial: SMR
-     nueva prueba
+     
 
 # Introducción
 
